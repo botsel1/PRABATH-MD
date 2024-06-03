@@ -16,7 +16,7 @@
       "required": true
     },  
 
-    "GITHUB_USERNAME": {
+    "GITHUB_USERNAME": {botsel1
       "description": "Put your github username here.",
       "required": true
     },
